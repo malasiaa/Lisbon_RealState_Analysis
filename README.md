@@ -1,6 +1,6 @@
 # Lisbon_RealState_Analysis
 
-This project had the objective of analyzing the real estate market in Lisbon in May 2023. 
+This project had the objective of analyzing the real estate market in Lisbon (May 2023). 
 To accomplish this goal, data was extracted from three distinct buy/sell platforms in Portugal, employing various approaches to address specific challenges. 
 The data retrieval process utilized the Chromedriver and Requests libraries, while Beautiful Soup was employed for parsing HTML.
  
