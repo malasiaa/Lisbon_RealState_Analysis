@@ -1,7 +1,7 @@
 # Lisbon_RealState_Analysis
 
 This project had the objective of analyzing the real estate market in Lisbon (May 2023). 
-To accomplish this goal, data was extracted from three distinct buy/sell platforms in Portugal (Idealista, Imovirtual, and Supercasa), employing various approaches to address specific challenges. 
+To accomplish this goal, it was extracted data from three distinct popular real state platforms in Portugal (Idealista, Imovirtual, and Supercasa), employing various technical approaches to address specific challenges. 
 The data retrieval process utilized the Chromedriver and Requests libraries, while Beautiful Soup was employed for parsing HTML.
  
 **Data Scrapping** - .py files regarding the data scrapping.
