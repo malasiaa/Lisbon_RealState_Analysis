@@ -1,4 +1,4 @@
-# Lisbon_RealState_Analysis
+# Lisbon Real State Analysis
 
 This project had the objective of analyzing the real estate market in Lisbon (May 2023). 
 To accomplish this goal, it was extracted data from three distinct popular real state platforms in Portugal (Idealista, Imovirtual, and Supercasa), employing various technical approaches to address specific challenges. 
